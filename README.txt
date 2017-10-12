@@ -5,3 +5,4 @@ Hello Again
 Updated README with additional information
 ** Entry from local repository
 Fixing bug#1234
+Added feature2
